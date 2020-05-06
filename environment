@@ -1,7 +1,7 @@
 //JDK-14 配置环境
 1. JAVA_HOME   C:\Program Files\Java\jdk-14.0.1
 
-2. Path        C:\Program Files\Java\jdk-14.0.1\bin 和 C:\Program Files\Java\jdk-14.0.1
+2. Path        C:\Program Files\Java\jdk-14.0.1\bin（这个必须要） 和 C:\Program Files\Java\jdk-14.0.1（这个不要好像也行）
 
 3.classpath 和以前的一样就行，好像不要也行。
 
